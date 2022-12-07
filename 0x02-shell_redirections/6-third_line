@@ -1,2 +1,2 @@
 #!/bin/bash
-hea jjasslakslkndwelm dlmaw scpkjnwqefc'pjoecpd
+head -n 3 iacta | tail -n 1
